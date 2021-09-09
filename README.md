@@ -51,5 +51,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-To learn Firebase, check out the [Firebase documentation](https://firebase.google.com/docs/)
-To learn Redux, check out the [Redux documentation](https://redux.io/docs/)
+
+To learn Firebase, check out the [Firebase documentation](https://firebase.google.com/docs/).
+
+To learn Redux, check out the [Redux documentation](https://redux.io/docs/).
