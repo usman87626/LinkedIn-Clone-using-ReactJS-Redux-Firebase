@@ -1,8 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Steps to start the Project
+<ol>
+  <li>Set your Firebase Credentials in `firebaseConfig={}` which resides in the 'src/firebase/firebase.js'</li>
+  <li>Install the dependencies using `npm install` in project folder</li>
+  <li>Run the project using `npm start`</li>
+  <li></li>
+</ol>
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+Installs all the dependencies needed to run the project
 
 ### `npm start`
 
