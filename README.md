@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <li>Set your Firebase Credentials in `firebaseConfig={}` which resides in the 'src/firebase/firebase.js'</li>
   <li>Install the dependencies using `npm install` in project folder</li>
   <li>Run the project using `npm start`</li>
-  <li></li>
+  <li>Enjoy the mini LinkedIn Clone</li>
 </ol>
 
 ## Available Scripts
@@ -51,3 +51,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+To learn Firebase, check out the [Firebase documentation](https://firebase.google.com/docs/)
+To learn Redux, check out the [Redux documentation](https://redux.io/docs/)
